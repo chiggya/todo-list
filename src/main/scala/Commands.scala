@@ -14,3 +14,4 @@ object Commands:
     case "v" | "view" => View
     case "q" | "quit" => Quit
     case _ => Unknown
+
